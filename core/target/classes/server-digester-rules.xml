@@ -4,6 +4,6 @@
   "http://commons.apache.org/digester/dtds/digester-rules-3.0.dtd">
 <digester-rules>
 <pattern value="server">
-<object-create-rule classname=""/>
+<object-create-rule classname="org.apache.tcem.core.wrapper.Service"/>
 </pattern>
 </digester-rules>
