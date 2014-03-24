@@ -6,6 +6,7 @@ public class Server {
     /**
      * Return descriptive information about this Server implementation and
      * the corresponding version number, in the format
+     * 
      * <code>&lt;description&gt;/&lt;version&gt;</code>.
      */
     public String getInfo() {
